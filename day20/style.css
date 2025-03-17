@@ -1,0 +1,28 @@
+<style>
+footer{
+ background-color:lightgreen;
+ padding-left: 15px;
+ padding-right: 15px;
+ text-align: center;
+ 
+}
+
+li{
+ display: inline;
+ text-decoration: none;
+ list-style: none;
+ padding-right: 5px;
+ padding-left: 5px;
+ margin-right: 5px;
+ margin-right: 5px;
+ 
+}
+div{
+ padding-top: 10px;
+ 
+
+}
+.parant{
+ display: inline;
+}
+</style>
